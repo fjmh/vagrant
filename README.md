@@ -1,2 +1,2 @@
 # vagrant
- Vagrant templates for deployment automatation and provisioning configuration
+ Vagrant templates for deployment automation and provisioning configuration
